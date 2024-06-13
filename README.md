@@ -1,4 +1,5 @@
-This python code creates the classic snake game from Day 20-21 of 100 Days of Code: The Complete Python Pro Bootcamp.
+Project from Day 20-21 of 100 Days of Code: The Complete Python Pro Bootcamp.
+This python code creates the classic snake game.
 Turn the snake using up, down, left, or right arrow keys to catch the food (the blue circles).
 As the snake eats the food, the snake becomes longer. 
 If the user collides with the wall or the snake collides with its tail, it is game over. 
